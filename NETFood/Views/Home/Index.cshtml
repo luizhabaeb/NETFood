@@ -1,0 +1,59 @@
+﻿<div class="row text-center">
+    <h2>NETFood ®</h2>
+</div>
+
+<div class="container">
+    <section id="sobre">
+        <div class="row justify-content-center">
+            <div class="col-xs-12 col-sm-6 col-md-3 text-center">
+                <img src="~/images/leiaute/icons8-love-50.png" />
+                <h3>Feitos com amor</h3>
+                <p class="text-muted">Fazemos seu lanche com carinho ♥</p>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 text-center">
+                <img src="~/images/leiaute/icons8-get-dressed-50.png" />
+                <h3>Entrega rápida!</h3>
+                <p class="text-muted">Entrega em até 35 minutos!</p>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 text-center">
+                <img src="~/images/leiaute/icons8-desconto-48.png" />
+                <h3>Preços Camaradas </h3>
+                <p class="text-muted">Promoções imperdíveis!!!</p>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 text-center">
+                <img src="~/images/leiaute/icons8-comida-natural-50.png" />
+                <h3>Lanches Naturais</h3>
+                <p class="text-muted">...saudáveis e naturais...</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="portfolio">
+        @await Html.PartialAsync("_IndexPartial")
+    </section>
+
+    <br />
+
+    <section id="contato">
+        <div class="row">
+            <div class="col-10 col-md-5 col-lg-5 offset-1" style="color: black">
+                <h4> &copy; 2022 - NETFood</h4>
+                <p class="text-justify">
+                    Aqui você encontra aquele lanche gostoso que da água na boca.
+                    Aquela sobremesa saborosa e, para acompanhar, a sua bebida preferida.
+                    E se você é vegetariano também vai encontrar o seu lanche, sobremesa e bebida adequados :)
+                </p>
+            </div>
+
+            <div class="col-10 col-md-5 col-lg-5 offset-1" style="color: black">
+                <h4>Está com alguma dúvida?</h4>
+                <ul class="list-unstyled">
+                    <li class="py-1"> Av. Ambrosio Molina, 1090</li>
+                    <li class="py-1"> +55 12 3903-1363</li>
+                    <li class="py-1"> <a href="netfood@sac.com" style="color: blue">netfood@sac.com</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+</div>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETFood", "NETFood\NETFood.csproj", "{F8567E33-59C2-4ED6-B623-26C9F377905C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8567E33-59C2-4ED6-B623-26C9F377905C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8567E33-59C2-4ED6-B623-26C9F377905C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8567E33-59C2-4ED6-B623-26C9F377905C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8567E33-59C2-4ED6-B623-26C9F377905C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3A70C0C-A85E-4830-92EF-8061D7ACD9F1}
+	EndGlobalSection
+EndGlobal

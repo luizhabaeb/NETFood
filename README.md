@@ -1,7 +1,5 @@
 # Link do Artigo - Metodologia da Pesquisa Científico-Tecnológica - Prof. Giuliano Bertoti.
-→ [Artigo - Luiz Fernando Habaeb - Metodologia - Bertoti.docx](https://github.com/luizhabaeb/NETFood/files/8865060/Artigo.-.Luiz.Fernando.Habaeb.-.Metodologia.-.Bertoti.docx)
-
-
+→ [Artigo Metodologia - Bertoti - Luiz Fernando Habaeb.docx](https://github.com/luizhabaeb/NETFood/files/8865467/Artigo.Metodologia.-.Bertoti.-.Luiz.Fernando.Habaeb.docx)
 
 
 
